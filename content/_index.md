@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
-teaser_image: "[images/teaser.jpg]" # (https://github.com/Ordisgroup/hugo-product-launch-kickstart/blob/master/content/ordis-abstract.png)
+teaser_image: "ordis-abstract.png" # https://github.com/Ordisgroup/hugo-product-launch-kickstart/blob/master/content/
 ---
 
 # The Future - Today!
