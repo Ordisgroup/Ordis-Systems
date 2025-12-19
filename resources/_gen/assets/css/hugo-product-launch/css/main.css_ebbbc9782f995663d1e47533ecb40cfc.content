@@ -1031,19 +1031,3 @@ img {
     padding-top: 0px;
   }
 }
-/* === TEMP: override Tailwind green buttons === */
-
-.bg-green-500,
-.bg-green-600,
-.bg-green-700 {
-  background-color: #1E1F25 !important;
-}
-
-.hover\:bg-green-600:hover,
-.hover\:bg-green-700:hover {
-  background-color: #2A2C33 !important;
-}
-
-.text-white {
-  color: #F9F9F9 !important;
-}
